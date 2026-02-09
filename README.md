@@ -307,7 +307,4 @@ public class SoftwareEngineer {
 <div align="center">
 
 *Last Updated: February 2026*
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=suchetrana&icon=5&color=0)
-
 </div>
