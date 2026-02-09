@@ -287,7 +287,7 @@ public class SoftwareEngineer {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchetrana/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suchet.rana.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suchetrana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-part-2-dun.vercel.app/)
 
 ### 💬 **Available for:**
 `Backend Development` • `System Design Discussions` • `Code Reviews` • `Tech Mentorship` • `Open Source Collaboration`
