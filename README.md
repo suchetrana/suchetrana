@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suchet Rana</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Developer specializing in Java & Node.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suchetrana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:suchetrana@myyahoo.com" target="_blank">
+  <a href="mailto:suchet.rana.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -16,19 +16,21 @@
 
 - 🔭 I'm currently working on building impactful software solutions
 - 🌱 I'm always learning and exploring new technologies
-- 💬 Ask me about **Java, C++, Python, AWS, and Databases**
-- 📫 Reach me at **suchetrana@myyahoo.com**
+- 🚀 Proficient in **Java** and **Node.js** — my core strengths
+- 💬 Ask me about **Java, Node.js, AWS, and Databases**
+- 📫 Reach me at **suchet.rana.dev@gmail.com**
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+### Languages & Runtimes
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
