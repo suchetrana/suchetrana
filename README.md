@@ -266,6 +266,10 @@ public class SoftwareEngineer {
 </div>
 
 ---
+<p align="center">
+  <img src="./suchetrana-space-shooter.gif" width="600">
+</p>
+
 
 ## 📬 **LET'S CONNECT**
 
